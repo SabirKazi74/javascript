@@ -1,4 +1,6 @@
 {
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true,
     "window.zoomLevel": 0,  // Optional: Adjust for overall UI scaling
     "workbench.editor.showTabs": "multiple",
     "workbench.sideBar.location": "right",
